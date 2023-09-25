@@ -1,0 +1,36 @@
+body {
+    background-image: url(/img/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.navbar {
+    background-color: rgba(37, 31, 45, 0.514) !important;
+    }
+
+.nav-link {
+    color: white !important;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#caja3 {
+    background-image: url(/img/carrito.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    margin-top: 60px;
+    height: 200px;
+    width: 500px !important;
+}
+
+.card-title {
+    font-size: 40px;
+    text-align: center;
+}
